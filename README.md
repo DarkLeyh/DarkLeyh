@@ -1,8 +1,8 @@
 - 👋 Hola, Soy @DarkLeyh
--   me interesa: la programacion y el desarrollo web y de juegos 
-- 🌱 Actualmente estoy aprendiendo: HTML, CSS, JS, PHP y PYTHON
-- 💞️ busco colaborar en: Nada todavia 
-- 📫 como contactarme: pdariel209@gmail.com
+-   me interesa: la programacion y el desarrollo web
+- 🌱 Actualmente estoy aprendiendo: html css js php y C++ 
+- 💞️ busco colaborar en: Nada
+- 📫 como contactarme: wa.me/+15092553426
 
 <!---
 DarkLeyh/DarkLeyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
